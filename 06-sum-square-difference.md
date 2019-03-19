@@ -1,6 +1,6 @@
 # Problem 6: Sum square difference script
 
-Natural number: A non-negative integer, so any positive whole number, which, depending on the definition, either starts from 0 or from 1. For this problem we’ll be starting from 1.
+- Natural number: A non-negative integer, so any positive whole number, which, depending on the definition, either starts from 0 or from 1. For this problem we’ll be starting from 1.
 
 ```js
 function sumSquareDifference(n) {

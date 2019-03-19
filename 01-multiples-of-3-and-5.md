@@ -1,10 +1,10 @@
 # Problem 1 - Multiples of 3 and 5
 
-Natural number: the positive integers (whole numbers) 1, 2, 3, etc., and sometimes zero as well.
+- Natural number: the positive integers (whole numbers) 1, 2, 3, etc., and sometimes zero as well.
 
-Multiple: A multiple is the result of multiplying a number by an integer (not a fraction). Ex: 15 is a multiple of 3 (3 x 5 = 15).
+- Multiple: A multiple is the result of multiplying a number by an integer (not a fraction). Ex: 15 is a multiple of 3 (3 x 5 = 15).
 
-Another definition of multiple: a number that can be divided by another number without a remainder.
+- Another definition of multiple: a number that can be divided by another number without a remainder.
 
 ```js
 function multiplesOf3and5(number) {
