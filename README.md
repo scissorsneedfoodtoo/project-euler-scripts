@@ -1,3 +1,3 @@
-# Project Euler Scripts
+# Scrimba Scripts
 
-Scripts for my Project Euler coding tutorial videos on Scrimba. Check them out at https://scrimba.com/@scissorsneedfoodtoo.
+Scripts for my coding tutorial videos on Scrimba. Check them out at https://scrimba.com/@scissorsneedfoodtoo.
